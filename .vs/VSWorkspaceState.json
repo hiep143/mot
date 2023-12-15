@@ -3,8 +3,12 @@
     "",
     "\\Finance.DataAccess",
     "\\Finance.DataAccess\\DBContext",
-    "\\FinanceWeb"
+    "\\FinanceWeb",
+    "\\FinanceWeb\\Areas",
+    "\\FinanceWeb\\Areas\\Identity",
+    "\\FinanceWeb\\Areas\\Identity\\Pages",
+    "\\FinanceWeb\\Areas\\Identity\\Pages\\Account"
   ],
-  "SelectedNode": "\\Finance-Web.sln",
+  "SelectedNode": "\\FinanceWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }
